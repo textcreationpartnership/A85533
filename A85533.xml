@@ -1,0 +1,427 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antiquity &amp; excellency of globes what a globe is, and of the circles without the globe, what the horizon is ... moreover of the circles which are described on the superficies of the globes ... all which are proper to the celestiall and terrestiall globes, with their uses ...</title>
+            <author>Grant, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85533</idno>
+            <idno type="STC">Wing G1524A</idno>
+            <idno type="STC">ESTC R42273</idno>
+            <idno type="EEBO-CITATION">36272413</idno>
+            <idno type="OCLC">ocm 36272413</idno>
+            <idno type="VID">150076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antiquity &amp; excellency of globes what a globe is, and of the circles without the globe, what the horizon is ... moreover of the circles which are described on the superficies of the globes ... all which are proper to the celestiall and terrestiall globes, with their uses ...</title>
+                  <author>Grant, W.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by M.S. and are to be sold by Tho. Jenner ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to W? Grant by Wing (2nd ed.).</note>
+                  <note>Colophon reads: Sold by Tho. Jenner at the South entrance of the Old Exchange, 1657.</note>
+                  <note>Imperfect: cropped.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Globes.</term>
+               <term>Geography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150076:1" rendition="simple:additions"/>
+            <pb facs="tcp:150076:2" rendition="simple:additions"/>
+            <p>THE ANTIQUITY &amp; EXCELLENCY Of GLOBES.</p>
+            <p>What a Globe is, and of the Circles without the Globe, what the Horizon is with the things deſcribed thereon, alſo what the Meridian is, the Poles, Axes, Houre-Circle and Index <hi>Moreover of the</hi> Circles which are deſcribed on the ſuperficies of the Globes; of the equinoctiall circle, Zodiack, and Ecclip<g ref="char:EOLhyphen"/>tick, of the Tropicks, what the Artick and An<g ref="char:EOLhyphen"/>tartick Circles are; of the Verticall Circles, and quadrant of Latitude, of the Zones and their numbers of Climates and Paralels.</p>
+            <p>All which are proper to the Celeſtiall and Terreſtiall Globes, with their uſes, profitable for all that would be inſtructed in Geography.</p>
+            <q>
+               <p>He ſtretcheth out the North over the empty place, and hangeth the Earth upon nothing,</p>
+               <bibl>Job 26. 7.</bibl>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed, by <hi>M. S.</hi> and are to be ſold by <hi>Tho. Jenner</hi> at the South-Entrance of the <hi>Old-Exchange,</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:150076:2"/>
+            <head>Geographie and the Principles thereof</head>
+            <argument>
+               <p>Certaine termes of Land and Water plainly defined and deſcribed</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>He Terreſtiall Globe is defined to be a Sphe<g ref="char:EOLhyphen"/>ricall body, proportionably compoſed of Earth and Water: into which two parts it is divided. Whereof the Earth comes firſt to view; whoſe parts are, either Reall, Imaginary: and the reall parts either Continents, Iſlands.</p>
+            <p>Now a Continent is a great quantity of Land, not inter<g ref="char:EOLhyphen"/>laced or ſeperated by the Sea; in which many Kingdomes and Principalities are contained; As Europe, Aſia, Africa, America.</p>
+            <p>An Iſland (called in Latine, <hi>Inſula, quaſi in ſalo</hi>) is a part of the earth, environed round with waters; as Britaine, Java, St. Laurence Iſle, Burmudas.</p>
+            <list>
+               <head>Theſe againe are ſub-divided into</head>
+               <item>Peninſula,</item>
+               <item>Iſtmus,</item>
+               <item>Promontorium.</item>
+            </list>
+            <p>A <hi>Peninſula,</hi> is almoſt an Iſland; that is, a tract of Land, which, being almoſt encompaſſed round by water, is joyned to the firme Land by ſome little iſtmus: as Poloponneſus, Tau<g ref="char:EOLhyphen"/>rica, Cymbrica, and Parvana.</p>
+            <p>An <hi>Iſtmus</hi> is a little narrow neck of Land, which joyneth a<g ref="char:EOLhyphen"/>ny <hi>Peninſula</hi> to the continent; as the ſtraits of Dariene in Peru, and Corinth in Greece.</p>
+            <p>
+               <hi>Promontorium,</hi> Is ſome high mountaine, which ſhooteth it ſelfe into the Sea, the utmoſt end of which is called a Cape, as
+<pb n="2" facs="tcp:150076:3"/>
+that great Cape of good hope, and Cape Verde in Africa<g ref="char:punc">▪</g> Cape Comori in Aſia, and that of Saint Michaels Mount in Cornwall; the North Cape up in Norway, and divers o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>There are likewiſe other reall parts of the earth; as moun<g ref="char:EOLhyphen"/>taines, vallies, fields, plaines, woods and the like.</p>
+            <p>The other generall part of the Globe is the water; which is</p>
+            <list>
+               <head>Divided into</head>
+               <item>1 <hi>Oceanus.</hi>
+               </item>
+               <item>2 <hi>Mare.</hi>
+               </item>
+               <item>3 <hi>Fretum.</hi>
+               </item>
+               <item>4 <hi>Sinus.</hi>
+               </item>
+            </list>
+            <p>1 <hi>Oceanus,</hi> The Ocean is that generall collection of all wa<g ref="char:EOLhyphen"/>ters which invironeth the whole world on every ſide.</p>
+            <p>2 <hi>Mare,</hi> The Sea is part of the Ocean; to which we can<g ref="char:EOLhyphen"/>not come, but through ſome ſtrait, as <hi>Mare Mediterraneum, Mare Balticum,</hi> and the like.</p>
+            <p>Theſe two take their names</p>
+            <p>Either from the adjacent places, as the Britiſh Ocean, the German Sea, the Atlantick Sea.</p>
+            <p>Or from the firſt diſcoverer, as <hi>Mare Magellanicum Davis</hi> and <hi>Forbiſhers</hi> ſtraits, &amp;c.</p>
+            <p>Or from ſome remarkable accident, as <hi>Mare Rubrum,</hi> from the red colour of the ſands. <hi>Mare Aegeum, Pontus Euxinus,</hi> and the like.</p>
+            <p>3 <hi>Fretum,</hi> a Strait is a part of the Ocean, reſtrained within narrow bounds, and opening a way to the Sea; as the ſtraits of Gibralter, Helleſpont, Anian.</p>
+            <p>4 <hi>Sinus,</hi> a Creek, is a crooked ſhoar, thruſting out as it were two armes to imbrace the lovely preſence of the Sea; as <hi>Sinus Adriaticus; Sinus Perſicus,</hi> and <hi>Corinthiacus.</hi>
+            </p>
+            <p>To this alſo belong Rivers, Brooks, and Fountains, which are engendred of congealed aire in the earths concavities, and ſeconded by the Sea waters, creeping through hidden crannies thereof. Thus much of the real parts of the Globe in generall.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:150076:3"/>
+               <head>Of the Circle of the Map and their uſes.</head>
+               <p>THe Earth and Sea, compoſed themſelves in a Sphericall figure, and is cauſed by the proper inclination of each part, which being heavy falls from every poynt of the circum<g ref="char:EOLhyphen"/>ference, and claps about the center, there ſettles as near as it may towards his place of reſt: we may illuſtrate both the fi<g ref="char:EOLhyphen"/>gure and ſcituation by a familiar ſimilitude to an ingenious ap<g ref="char:EOLhyphen"/>prehenſion; Suppoſe we a knot to be knit in the midſt of a Cord that hath many ends, and thoſe to be delivered to ſundry men of equall ſtrength to be drawn ſeverall wayes round from every part above, and below, and on each ſide.</p>
+               <p>Queſtioneleſſe while every man draws in the boes of the knots, it muſt needs become round, and whilſt they continue to pluck with equall ſtrength it muſt reſt immoveable in the middle betwixt them, ſince every ſtrength that would deſtroy, hath a ſtrength equall to reſiſt it; ſo it is in the boſome of the earth where every part wheeles upon equall priviledge of na<g ref="char:EOLhyphen"/>ture, nor can any preſſe farther then the center to deſtroy this compacted figure, for it muſt meet there with a body that will oppoſe it, or if not, yet could it not paſſe, ſince every motion from the middle were to aſcend, which nature will not per<g ref="char:EOLhyphen"/>mit in a body of weight as the whole earth is.</p>
+               <p>The compaſſe of the whole is caſt by our lateſt and moſt learned, to be 21600 Engliſh miles, which though none ever yet ſo pared as to meaſure them by the foot, yet let not the ig<g ref="char:EOLhyphen"/>norant reject this accompt, ſince the rule by which they are led cannot faile: for we ſee by continuall experience, that the Sun for every degree in the Heavens, gaines ſixty miles upon the earth, towards his circuit round, and after three hundred ſixty degrees, returneth to the ſame poynt in reſpect of us as before it was: repeat the number of 60 ſo oft and you will finde the accompt juſt, and ſo by proportion of the circum<g ref="char:EOLhyphen"/>ference to the diameter, which is <hi>tripla ſeſqui-ſeptima,</hi> the ſame which 22 hath to 7. We may judge likewiſe of the earths thickneſſe to the center. The whole diameter muſt by rule be ſomewhat leſſer then a third part of the circuit, that in pro<g ref="char:EOLhyphen"/>portion to 21600 will be 6872. halfe the number will reach
+<pb n="4" facs="tcp:150076:4"/>
+the middle of the world, and that is 3436. in this report both of the quantity and forme of the earth; we muſt not require ſuch exactneſſe as cannot vary a haires breadth, for we ſee the mountaines of the earth, and oftentimes the waves of the Sea make the ſuperficies unequall, it will be ſufficient if there be no difference, ſenſible to be reckoned in ſo great a <hi>bulk;</hi> for let us rudely hew a ball out of rough ſtone, ſtill it is a ball, though not ſo ſmooth as one of Chriſtal, or ſuffer a mote to fall upon a ſphear of glaſs, it changeth not its figure, far leſſe are the moun<g ref="char:EOLhyphen"/>tains which we ſee in reſpect of the whole lumpe.</p>
+            </div>
+            <div type="part">
+               <head>What a Globe is.</head>
+               <p>A Globe we may define to be an Analogicall repreſentation either of the Heavens or of the earth, and we call it Ana<g ref="char:EOLhyphen"/>golicall, not only in regard of its forme, expreſſing the figure of the Heavens, as alſo of the terreſtiall Globe, conſiſting of the earth it ſelfe, together with the interflowing Seas, but ra<g ref="char:EOLhyphen"/>ther, becauſe that it repreſenteth unto us in a juſt proportion and diſtance each particular conſtellation in the Heavens, and every ſeverall region and tract of ground in the earth, together with certaine circles, both greater and leſſer, invented by arti<g ref="char:EOLhyphen"/>ficers for the more ready computation of the ſame.</p>
+               <p>The greater circles we call thoſe which divide the whole, ſuperficies of the Globe into equall parts or halfes and thoſe the leſſer which divide the ſame into two unequall parts.</p>
+               <p>Beſides the body of the Globe it ſelfe, there is alſo annex<g ref="char:EOLhyphen"/>ed a certaine frame, with neceſſary inſtruments thereto be<g ref="char:EOLhyphen"/>longing.</p>
+               <p>The Fabrick of the frame is thus; firſt of all there is a baſe or foot to reſt upon, on which, there are raiſed perpendicular<g ref="char:EOLhyphen"/>ly ſix pillars or columnes of equall length and diſtance, upon the top of which there is faſtned to a levell a round plate or circle of wood, which they call the Horizon, becauſe that the uppermoſt ſuperficies thereof performs the office of the true horizon, for it divideth the whole Globe into 2 equal parts; whereof that which was uppermoſt, repreſenteth unto us the viſible Hemiſphere, and the other, that which is hid from us. So likewiſe the circle which divideth that part of the world
+<pb n="5" facs="tcp:150076:4"/>
+which we ſee from the other, which we ſee not is called the Horizon, and that poynt which is directly over our heads in our Hemiſphere, and is on every ſide equadiſtant from the Horizon, is commonly called Zenith, and that poynt which is oppoſite to it in the lower Hemiſphere, is commonly written Nadir theſe two poynts are called alſo the Poles of the Hori<g ref="char:EOLhyphen"/>zon.</p>
+               <p>Furthermore, upon the ſuperficies of the Horizon in a mate<g ref="char:EOLhyphen"/>riall Globe, there are deſcribed firſt, the twelve ſignes of the Zodiack, and each of theſe is divided againe into thirty leſſer portions, ſo that the whole Horizon is divided into 360 parts, which they alſo call degrees, and every degree is divided into ſixty parts, alſo each of them is called a ſcruple or minute, and ſo by the like ſubdiviſion of minutes into ſixty parts will ariſe ſeconds, and of theſe thirds, and likewiſe fourths, and fifths, &amp;c. but the like partition ſtill of each into ſixty parts.</p>
+               <p>There is alſo deſcribed upon the Horizon, the Roman Ca<g ref="char:EOLhyphen"/>lender, and that three ſeverall wayes, to wit, the ancient way, which is ſtill in uſe with us here in England, and the new way appointed by Pope Gregory 23, wherein the Aequinoxes and Solſtice were reſtored to the ſame places they were in at the time of the Celebration of the councell of Nite, and in the third, the ſaid Aequinoctiall and Solſticall points are reſtored to the places they were in, at the time of our Saviour Chriſts nativity.</p>
+               <p>The months in the Calender, are divided into dayes and weeks, to which are annexed as their peculiar characters the 7 firſt letters of the Alphabet.</p>
+               <p>The innermoſt border of the Horizon, is divided into thirty two parts, according to the number of the winds, which are obſerved by our moderne Sea-faring-men in their Navigati<g ref="char:EOLhyphen"/>ons, by which alſo we are wont to deſigne forth the quarters of the Heavens, and the Coaſts of Countries, the names of the windes are ſet downe both in Engliſh and Latine, in the Hori<g ref="char:EOLhyphen"/>zon of the materiall Globes.</p>
+               <p>The uſe of the Horizon is manifold, Firſt it divides the heavens into 2 Hemiſphears; Secondly it ſhews what ſtars ne<g ref="char:EOLhyphen"/>ver ſet, and what never riſe from under the earth, and ſo like<g ref="char:EOLhyphen"/>wiſe what ſtars doe both riſe and ſet; Thirdly, it ſheweth the
+<pb n="6" facs="tcp:150076:5"/>
+cauſe of the equality and inequality of the artificiall dayes and nights; Fourthly, it conduceth to the finding out of the lati<g ref="char:EOLhyphen"/>tude of any place; Fifthly, it is the cauſe of the rectitude and obliquity of the Sphear, whereof we have occaſion to ſpeake more largely hereafter.</p>
+               <p>There is alſo let into this Horizon two notches, oppoſite one ro the other, a circle of braſſe, making right angles with the ſaid Horizon, and placed ſo that it may be removed at pleaſure up and downe by thoſe notches, as need ſhall require<g ref="char:punc">▪</g> This Circle is called the Meridian becauſe that one ſide of it which is in like manner divided into 360 degrees, ſupplyeth the office of the true Meridian. Now the Meridian is one of greater circles, paſſing through the Poles of the world, and al<g ref="char:EOLhyphen"/>ſo of the Horizon, to which when the Sun in his daily revoluti<g ref="char:EOLhyphen"/>on is arrived in the upper Hemiſphere it is mid-day, and when it toucheth the ſame in the lower Hemiſphere it is mid-night at the place whoſe Meridian it is.</p>
+               <p>The Meridian (which comes firſt to be conſidered) is a great Circle compaſſing round the Earth from Pole to Pole; and is that which you ſee in the circumference of both Planiſphears of the Map, and wherein are written the names of the Zones and Climates, This chiefe, firſt fixed Meridian paſſeth through the Iſlands called Azores, according to the ancient Coſmogra<g ref="char:EOLhyphen"/>phers; and there are two reaſons why they did there begin to reckon the longitude of the Earth.</p>
+               <p>Firſt, for that at that time there was no land known further to the Weſterne then that place.</p>
+               <p>Secondly, Under that Meridian the Needle in the Marriners compaſſe had no variation, but did poynt directly North and South.</p>
+               <p>There be alſo many Meridians according to the divers places in which a man lives<g ref="char:punc">▪</g> the number of them equall to ſo many points as may be imagined in the Globe; but the uſuall ſet<g ref="char:EOLhyphen"/>ting them known to view<g ref="char:punc">▪</g> is by ten degrees a ſunder; and are thoſe black lines which you ſee in both Planiſpheares, running downe along from the North to the South Pole.</p>
+               <p>The uſe of the Meridian, is to ſhew the longitude of any place. Now the longitude of a Region, City or Cape, is the diſtance of it Eaſt from the firſt great Meridian<g ref="char:punc">▪</g> and this lon<g ref="char:EOLhyphen"/>gitude
+<pb n="7" facs="tcp:150076:5"/>
+is meaſured and numbred in the Aequinoctiall line by Meridians from the generall and fixed Meridian into the Eaſt, and containeth the whole compaſſe of the Earth, <hi>viz.</hi> 360<g ref="char:punc">▪</g> degrees.</p>
+               <p>To prove this by example, caſt your eye on <hi>London,</hi> and you ſhall ſee it ſomething to the Eaſt of the ſecond black Meridian: paſſe downe with that black line to the Aequinoctiall, and look as much Eaſt there, as <hi>London</hi> is from that Meridian above<g ref="char:punc">▪</g> then count the degrees of the Aequinoctiall, from the firſt great Meridian to that place, and that diſtance is the longitude of <hi>London,</hi> which you may perceive to be 20 degrees and bet<g ref="char:EOLhyphen"/>ter: And the like manner of working is to be made for all o<g ref="char:EOLhyphen"/>ther places.</p>
+               <p>That line full of degrees croſſing both Planiſphears ſtraight along in the middle, and dividing the world into two halfs (<hi>viz.</hi>) North and South halfs; is called the <hi>Aequinoctiall line,</hi> or the Aequator; either becauſe it is of equall diſtance from both Poles of the world, or elſe becauſe the Sun coming in this Circle makes the dayes and nights throughout the world of a length; which happens upon the 10. or 11. of March, and the 13, or 14. of September. It paſſes through <hi>Abaſſia</hi> or <hi>Preſter Johns</hi> Kingdome, and Manicongo in Africa, through the great Iſland Sumatra, and the Maldive Iſles of Africa; and in America, through Guiana.</p>
+               <p>The uſe of it is to ſhew the latitude of any Countrey, City, Promontory, or the like: Now the latitude is the diſtance of a place toward the South or North, from the Aequinoctiall line or middle of the world; and is reckoned and meaſured up<g ref="char:EOLhyphen"/>on the Meridian toward either Pole. Thoſe therefore have Northerne latitude that inhabit between the Aequinoctiall and the North Pole, as they have Southerne latitude that are be<g ref="char:EOLhyphen"/>tween the ſame Equator and the South Pole.</p>
+               <p>Thoſe black lines thwa<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting the black Meridian from Eaſt to Weſt, are parallels, and are alſo called Aequidiſtants, being diſtant one from another 10 degrees toward both Poles; and are here ſet downe for the eaſie counting the latitude of any place from the Aequinoctiall: as for the latitude of <hi>London;</hi> count ſo many decimall Parallels, till you come to the Pa<g ref="char:EOLhyphen"/>rellel which is neareſt <hi>London,</hi> (you ſhall finde them to be five) then follow that line to the Meridian, and ſee the figures ſet
+<pb n="8" facs="tcp:150076:6"/>
+thereat; they are 50.) moreover, add to that number of 50. ſo much as London is ſituate above that paralel, the ſpace is one degree and an halfe; thus you ſhall finde the latitude of <hi>London</hi> (that is, the diſtance thereof from the Aequator to<g ref="char:EOLhyphen"/>ward the North Pole) to be 51 degrees and a halfe: and in like manner muſt the latitude of all other places be ſought<g ref="char:punc">▪</g> Thus much of Longitude and Latitude, by which two, the whole earth is reckoned.</p>
+               <p>The Meridian and Aequinoctiall, as alſo the Zodiack, are filled throughout with degrees, the number 360 and every degree conſiſts of 60 minutes, and containes, according to our ordinary account, 20 leagues, or 60 miles.</p>
+               <p>The great circle that is drawn bending bias in one planiſ<g ref="char:EOLhyphen"/>pheare up to the Tropick of Cancer, in the other downe to the Tropick of Capricorne, is the Zodiack; it is repleniſhed with degree, and beares on it the Characters of the twelve ſignes.</p>
+               <p>The uſes of it are to ſhew over what Countreyes and people the body and beames of the Sun come perpendicular at ſome times or other in the year, and it ſhewes to all (where the days increaſe and decreaſe) the longeſt and ſhorteſt days of the year, for the Sun (which cauſeth the ſame) being alwayes in this circle and therein moving about one degree a day, all the while he is coming up from the Tropicke of Capricorne to that of Cancer, the dayes increaſe in the Northerne Climates: but contrariwiſe in his courſe back from Cancer to Capri<g ref="char:EOLhyphen"/>corne they ſhorten to us, and lengthen to thoſe in the South<g ref="char:EOLhyphen"/>erne Climates; and this Circle ſhews the foure quarters of the yeare; Spring, Summer, Autumne, Winter.</p>
+               <p>The Tropick of Cancer, (ſo called, or the Caeleſtiall ſigne Cancer) is a circle, whoſe diſtance from the Aequinoctiall to<g ref="char:EOLhyphen"/>ward the North, is 23 degrees and a halfe. When the Sun is come ſo far Northward as to touch this Circle, then is our longeſt day in the year.</p>
+               <p>It paſſes through the Southermoſt parts of Barbary and Aegypt, Arabia, India, China, <hi>Nova Hiſpania,</hi> and the Iſland Cuba.</p>
+               <p>The Tropick of Capricorne, (likewiſe ſo named of the ſigne Capricorne in the ſtarry Heaven) is a circle of like diſtance at
+<pb n="9" facs="tcp:150076:6"/>
+the other Tropick from the Aequinoctiall Southward, that is 23 degrees and a halfe. When the Sun is gone downe to the Circle Southward, it is our ſhorteſt day in the whole year.</p>
+               <p>This Tropick paſſes through Monomopata, Saint Laurence Iſland, Peru, and the South coaſts of Braſile.</p>
+               <p>The Artick, or North polar Circle, is diſtant from the North Pole, 23 degrees and a halfe; ſo much as the Tropick of Cancer from the Aequinoctiall; but the diſtance between that Tropick and it, is 43 degrees.</p>
+               <p>You may ſee it paſſe through Iſland, Norway, Boddia<g ref="char:punc">▪</g> Moſcovy, Tartary, croſſe <hi>Davis</hi> Straits, and Greenland.</p>
+               <p>The Antartike or South polar Circle, is diſtant from the South Pole, 23. degrees and a halfe; ſo far as the Tropick of Capricorne is from the Equinoctiall.</p>
+               <p>The Circle paſſes through Magellanica, or <hi>Terra auſtralis Incognita</hi> onely.</p>
+               <p>Now theſe four leſſer circles, <hi>(viz.)</hi> the two Tropicks, and Polar circles, doe fitly part the Earth into five Zones.</p>
+            </div>
+            <div type="part">
+               <head>The Zones.</head>
+               <p>A <hi>Zone</hi> is a ſpace of Earth, contained between two of the ſmaller circles, or within the compaſſe of either Polar Circle: the name ſignifies as much as a girdle, by reaſon that each Zone compaſſeth about the Earth in manner of a girdle. Of theſe there be two kinds, one temperate, the other untem<g ref="char:EOLhyphen"/>perate.</p>
+               <p>There be two temperate Zones; the one North, the other South.</p>
+               <p>The North temperate Zone is that ſpace of earth contai<g ref="char:EOLhyphen"/>ned between the Tropick of Cancer, and the North Polar Circle.</p>
+               <p>The South temperate Zone is that ſpace of earth ſtretched along between the Tropick of Capricorne, and the South Polar Circle.</p>
+               <p>
+                  <pb n="10" facs="tcp:150076:7"/>They are called temperate Zones, for that the aire thereof hath a far better and more moderate temperature, and meeter for man to inhabit, then the untemperate Zones. The breadth of them is forty three degrees a piece, which degrees make either temperate Zone to be 2580 Engliſh miles broad a piece.</p>
+               <p>The untemperate Zones are twofold; one exceeding in the extremity of heat, the other as much in cold; they have been thought in former times altogether unhabitable, but latter ex<g ref="char:EOLhyphen"/>perience hath found them more fit for habitation,</p>
+               <p>The Torrid or burnt Zone (which is the hot untemperate Zone) is that ſpace of Heaven which you ſee contained be<g ref="char:EOLhyphen"/>tween the Tropick of Cancer, and that of Capricorne. It hath the name of Torrid, becauſe the Sun continually paſſes thereo<g ref="char:EOLhyphen"/>ver, and caſting down direct rayes, affects it with a marvellous heat; thereby making it not ſo inconvenient for the Inhabi<g ref="char:EOLhyphen"/>tants, as the temperate Zones are. The breadth of this Zone is comprehended between the two Tropicks, and containes 47 degrees, that is of Engliſh miles 2820.</p>
+               <p>The frozen Zones are ſpaces of Earth incloſed within either of the Polar Circles: of theſe there are two, one North, the other South.</p>
+               <p>The North frozen Zone, is that ſpace of Earth contained within the compaſſe of the North Polar Circle. The breadth thereof reckoned twenty three degrees and a halfe, <hi>viz.</hi> from the Pole it ſelfe to the Polar Circle, which of Engliſh miles is 1410.</p>
+               <p>The South frozen Zone, is that ſpace of Earth compaſſed all about with the South Polar Circle: It hath the like breadth from the South Pole, as the other frozen Zone hath from the North Pole: and likewiſe the number of miles is the ſame.</p>
+               <p>They are called frozen Zones, becauſe they (for the moſt part) exceed in cold; and that is cauſed in regard that the Sunne for a good part of the year, is under the Horizon, and ſees them not; and when he is come up into their ſight, his appearance which (for a pretty long ſeaſon together) rather comforts them, then any vertuall heat proceeding from him; for there the Aire is ſtuft with thick foggy vapours, and
+<pb n="11" facs="tcp:150076:7"/>
+his beames at higheſt fall but very obliquely on them; ſo that what through his want and unability to diſpel the cold and the colds force to reſiſt, and beare back the Suns heat; theſe Zones remaine almoſt unhabitable, and even (as the word is) frozen.</p>
+               <p>The names of all theſe, ſet in the right place of each Zone you ſhall ſee in that Meridian going about America and Ma<g ref="char:EOLhyphen"/>gellanica</p>
+            </div>
+            <div type="part">
+               <head>Of the Climates.</head>
+               <p>IN that great Meridian going about Europe, Aſia, and Afri<g ref="char:EOLhyphen"/>ca, are deſcribed the Climates; Now a Climate is a ſpace of the Earth included within the ſpace of two Parellels. The uſe of them is to ſhew the difference of length and ſhortneſſe of dayes over all the world, as you may ſee in the midſt of e<g ref="char:EOLhyphen"/>very Climate, ſet the number of the houres of the longeſt day in the yeare, under that Climate: the longeſt day in one Cli<g ref="char:EOLhyphen"/>mate, differing halfe an houre from the longeſt in another<g ref="char:punc">▪</g> ſo that there are four and twenty Climates, conſiſting of forty eight Parallels, ere the day come to be twenty foure hours in length, which is twelve houres longer then the or<g ref="char:EOLhyphen"/>dinary Aequinoctiall day is. Now this is to be underſtood; Under the Aequinoctiall line, and thirteen degrees, that is, three Parallels, on either ſide thereof, the dayes exceed not the length of twelve houres, but after in every Clime increaſe the length of halfe an houre, ſo that there are numbred (as is ſaid before) 48 Parellels, which make twenty four Climates, before the dayes become twenty foure houres long, the which length they being grown to, their increaſe is then by whole weeks and months, till in the four and twentieth Clime: about the Pole, the day is full halfe a year long. And it is thus between the Aequator and the North Pole, ſo it is between the ſaid Aequator and South Pole: wherefore there are 2 ſorts of Climes, that is 24 Northerne, and as many Southerne. The Climates Northward are thus named; the firſt is <hi>Dia Me<g ref="char:EOLhyphen"/>roes,</hi> becauſe the middle Parallel thereof paſſes through the middeſt of the Inland Iſl<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>Meroe,</hi> in the continent of <hi>Afri<g ref="char:EOLhyphen"/>ca;</hi> the ſecond is <hi>Dia Sienes:</hi> the third <hi>Dia Alexandria;</hi> the fourth <hi>Dia Rhodos</hi> the fifth <hi>Dia Romes;</hi> the ſixth <hi>Dia Ponton;</hi>
+                  <pb n="12" facs="tcp:150076:8"/>
+the ſeventh <hi>Dia Boriſthenes;</hi> the eight <hi>Dia Ripheos;</hi> the ninth <hi>Per Dianam.</hi> The South Climes have the ſame names, ſave on<g ref="char:EOLhyphen"/>ly that the word <hi>Anti</hi> is thereunto added; as <hi>Anti Dia Me<g ref="char:EOLhyphen"/>roes;</hi> the next <hi>Anti Dia Sienes,</hi> and ſo along to the ninth Southward: further then the ninth Clime on either ſide the Aequinoctiall they are not named but yet the Climes run on both wayes to the number of twenty four, as is ſeen in the Me<g ref="char:EOLhyphen"/>ridian. That there be but nine named; the reaſon is, becauſe when theſe names were given, no more then nine Climates were known to thoſe of ancient times; but ſince, though the number of them be increaſed to twenty foure, the reſt are not knowne by proper names, but remaine innomi<g ref="char:EOLhyphen"/>nate.</p>
+               <p>In the two oppoſite points of this Meridian are faſtned the two ends of an iron pin, paſſing through the body of the Globe and its centre, one of which ends is called the Artick, or North pole of the world; and the other the Antartick or South Pole; and the pin it ſelfe is called the Axis; for the Axis of the world is the Diameter about which it is turned, and the extreame ends of the Axis are called the Poles.</p>
+               <p>To either of theſe Poles when need ſhall require there is a certaine braſſe Circle or ring to be faſtned; which Circle is di<g ref="char:EOLhyphen"/>vided into twenty four equall parts, according to the number of the hours day and night, and it is therefore called the hour<g ref="char:EOLhyphen"/>circle, and this Circle is to be applied to either of the Poles in ſuch ſort as that the ſection where twelve is deſcribed may preciſely agree with the points of mid-day and mid-night in the ſuperficies of the true Meridian.</p>
+               <p>There is alſo another little pinne to be faſtned to the end of the Axis, in the very Center of the hour circle; this pin is ſo made as it turnes about and poynteth to every of the twenty four ſections in the hour-circle, according as the Globe it ſelfe is moved about, ſo that you may place the point of it to what houre you pleaſe.</p>
+               <p>The uſe of this hour-circle and Index, is to denote the houres of the riſing and ſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tting of the Sun, and other ſtars, which muſt be practiſed after this manner; Firſt you muſt ſet the Globe to your elevation or pole, and then apply the de<g ref="char:EOLhyphen"/>gree of the ſigne in which the Sun at that time is, to the Me<g ref="char:EOLhyphen"/>ridian
+<pb n="13" facs="tcp:150076:8"/>
+and the Index to that 12 houres which is uppermoſt, and ſo having thus done you muſt turne the Globe about till the degree wherein the Sun is come to the Eaſterne ſide of the Horizon; which done the Index will poynt out the houre of his riſing, and if you turne it about to the Weſt ſide, you ſhall in like manner have the houre of his ſetting.</p>
+               <p>There is alſo belonging to the Meridian, a quadrant of Altitude, being made of a long thin plate, of ſteel or braſſe, and faſhioned crooked, ſo that it may be applyed to the con<g ref="char:EOLhyphen"/>vexe ſuperficies of the Globe.</p>
+               <p>And having the fourth part of the Circle in length and this Quadrant is made in ſuch ſort as that it may be faſtned on the Meridian, and ſo be applyed to the Zenith of any place what<g ref="char:EOLhyphen"/>ſoever, being divided from one end to the other into 90 equal parts and degrees.</p>
+               <p>There is beſides at the foot of the Globe, a Marriners com<g ref="char:EOLhyphen"/>paſſe placed, which ſerves to ſhew how to place the Globe rightly, according to the four windes and quarters of the world.</p>
+               <p>Beſides theſe Circles expreſſed in the Globe, there are alſo ſome certaine other Circles in familiar uſe with the Practicall Aſtronomers, which they call verticall Circles; theſe are greater Circles drawn from the verticall poynt through the Horizon, in what number you pleaſe; the office of theſe Cir<g ref="char:EOLhyphen"/>cles is ſupplyed by the helpe of a quadrant of altitude which is a thin plate of braſſe divided into 90 degrees; this Quadrant muſt be applyed to the vertex of any place, when you deſire to uſe it, ſo that the loweſt end of it noted with the number of 90, may juſt touch the Horizon in every place, this Quadrant is made moveable, that ſo it may be faſtned to the verticall point of any place.</p>
+            </div>
+            <div type="part">
+               <head>Of the figure of the heavenly Orbes and Elements.</head>
+               <p>THe whole world is divided into two parts, <hi>viz. Elemen<g ref="char:EOLhyphen"/>tall,</hi> and <hi>Etheriall,</hi> or <hi>Coeleſtiall</hi> parts.</p>
+               <p>The Elementall part is four-fold; <hi>viz. Earth, water, aire, Fire,</hi> as may be ſeen in that round figure of the frame of the Heavens and Elements one within another; the inmoſt and
+<pb n="14" facs="tcp:150076:9"/>
+middlemoſt Circle containing Earth and water intermixed to<g ref="char:EOLhyphen"/>gether; the next, the three Regions of the Aire, and imme<g ref="char:EOLhyphen"/>diately above that Orbe, is the Element of Fire, all which you may eaſily diſcerne by their ſeverall names in their proper places.</p>
+               <p>The Etheriall or Celeſtiall parts doe compaſſe the Elemen<g ref="char:EOLhyphen"/>tall part, and contain the ten upper Spheares, <hi>viz. 1 The Moon, 2 Mercury, 3 Venus, 4 Sol, 5 Mars, 6 Jupiter, 7 Saturne, 8 the ſtarry Firmament, 9 the Chriſtaline Heaven,</hi> having no ſtars at all; the 10. is the <hi>Primum mobile,</hi> or firſt mover, containing all the reſt within it; and moving from the Eaſt to the Weſt carrieth about with it in violence all the other Spheares,</p>
+               <p>The reſt of the Spheares have contrary motions, every one in his kinde, though far ſlower then the other: and their mo<g ref="char:EOLhyphen"/>tions are contrary, from the Weſt to the Eaſt, and ſo are carri<g ref="char:EOLhyphen"/>ed about oftentimes by the firſt mover, before they make one perfect revolution in themſelves.</p>
+               <p>The <hi>Chriſtaline</hi> or ninth Sphear his motion is almoſt im<g ref="char:EOLhyphen"/>menſible, and is called the trembling Motion, and is perfor<g ref="char:EOLhyphen"/>med, according to the opinion of later Aſtronomers, in 49000 years.</p>
+               <p>The eight Sphear being the Starry Firmament performeth his motion in 7000 years.</p>
+               <p>The reſt of the Sphears are the ſeven Planets, each Sphear containeth in it but one Star: whereof the uppermoſt and ſloweſt is <hi>Saturne,</hi> which perfecteth his courſe in thirty yeares. <hi>Jupiter</hi> being next under that, makes his revolution in twelve years. <hi>Mars</hi> beneath him finiſheth his courſe in two years. <hi>Sol</hi> paſſeth through the Zodiack in 365 dayes and ſix houres, which is one whole year. <hi>Venus</hi> ends her courſe in ſomewhat more then a year. <hi>Mercury</hi> holds equall pace with the Sun. <hi>Luna</hi> courſeth about the Heaven once every eight and twenty dayes.</p>
+               <list>
+                  <item>A Star of the firſt bignes, is 107 times bigger then the earth.</item>
+                  <item>A Star of the ſecond bignes, is 90 times the Globe of the earth.</item>
+                  <item>A Star of the third bignes, is 72 times the Globe of the earth.</item>
+                  <item>A Star of the fourth bignes, is 54 times the Globe of the earth.</item>
+                  <item>A Star of the fifth bignes, is 36 times the Globe of the earth.</item>
+                  <item>A Star of the ſixth bigneſſe, is 18 times the Globe of the earth.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:150076:9"/>
+               <head>Of the uſe of the Globes.</head>
+               <p>THe firſt whereof is concerning the poſition of the Globe, and the other Climates. Now touching the poſition of the Globe, you are firſt of all to take care that it be placed per<g ref="char:EOLhyphen"/>pendicularly to the true Horizon; Secondly, That the diſtin<g ref="char:EOLhyphen"/>ction of the winds anſwer directly to the windes of the reall Horizon, that ſo the Eaſt on your materiall Globe may look directly towards the true Eaſt of the world; for which purpoſe eſpecially there is uſually placed a Nauticall compaſſe in the bottom of the frame. When you have thus placed your Globe ſo that it may be turned any way at pleaſure, yet ſo that the baſe or foot be not moved out of its place. The next thing that is to be inquired after, is the latitude of the place wherein you live, which according as it is greater or leſſe, you muſt ele<g ref="char:EOLhyphen"/>vate the Pole of your Globe above the Horizon proportiona<g ref="char:EOLhyphen"/>bly. As for example, if the latitude be 50, 51, or 52. grad. or more or leſſe Northward, then muſt you elevate the Artick Pole, juſt ſo many degrees above the Horizon, and ſo likewiſe if the latitude be Southerne, you muſt doe the like by the An<g ref="char:EOLhyphen"/>tartick or South Pole, But under the Aequator where there is no latitude at all both the Poles muſt be placed in the very Ho<g ref="char:EOLhyphen"/>rizon at oppoſite points.</p>
+               <p>Now if you deſire to know the longitude of any place ex<g ref="char:EOLhyphen"/>preſſed in the Globe, you muſt apply the ſame place to the Me<g ref="char:EOLhyphen"/>ridian, and obſerving at what place the Meridian cutteth the Ae<g ref="char:EOLhyphen"/>quator, reckon the degree of the Aequator from the Meridian of St. <hi>Michaels</hi> Iſland to that place; for ſo many are the de<g ref="char:EOLhyphen"/>grees of longitude of the place you look for.</p>
+               <p>In the ſame manner you may meaſure the difference of longitude betwixt any other two places that are deſcribed in the Globes.</p>
+               <p>Now if you deſire to finde the latitude of any place expreſſed in the Globe, you muſt apply the ſame to the Meridian, and reckon the number of the degrees that it is diſtant from the Aequator, for ſo much is the latitude of that place.</p>
+               <p>To finde the diſtance of two places, ſet your Globe in ſuch ſort, as that the Zenith of one of the plates be 90 degrees di<g ref="char:EOLhyphen"/>ſtant
+<pb n="16" facs="tcp:150076:10"/>
+every way from the Horizon, and then faſten the Qua<g ref="char:EOLhyphen"/>drant of altitude to the verticall point and ſo move it up and downe untill it paſſe through the vertix of the other place, the number of the degrees intercepted in the Quadrant be<g ref="char:EOLhyphen"/>twixt the two places, being reſolved into furlongs, miles or leagues, as you pleaſe, will ſhew you the true diſtance of the places aſſigned, and the other end of the Quadrant that touch<g ref="char:EOLhyphen"/>eth upon the Horizon will ſhew on what winde or quarter of the world the one place is in reſpect of the other, or what an<g ref="char:EOLhyphen"/>gle or poſition it hath, for the angle or poſition is that which is comprehended betwixt the Meridian of any place, and a great Circle paſſing through the Zeniths of any two places aſſigned, and the quantity of it is to be numbred in the Ho<g ref="char:EOLhyphen"/>rizon.</p>
+               <p>As for example, The longitude of London is 26 degrees and it hath in Northerne latitude 51 degrees and a halfe. Now it is demanded, what diſtance and angle of poſition it beareth to Saint <hi>Michaels</hi> Iſland, which is one of the Azores; we muſt proceed thus to finde it; firſt, let the North Pole be Elevated 51 degrees which is the latitude of London, then faſtning the Quadrant of altitude to the Zenith of it, that is to ſay 51 degrees and an halfe Northward from the Aequator; we muſt turne it about till it paſſe through Saint Michaels Iſland, and we ſhall finde the diſtance intercepted betwixt theſe 2 places to be 11 degrees, 40. m. or thereabouts, which is 280 of our leagues, and if we obſerve in what part of the Horizon the end of the Quadrant reſteth we ſhall finde the angle of poſition to fall neer upon 50 gr. betwixt South-weſt and by weſt, and this is the Scituation of this Iſland in reſpect of London. The diſt<g ref="char:EOLhyphen"/>ance of places differing only in latitude may be found out after this manner; Firſt, you muſt ſubſtract the leſſer latitude from the greater, reſolving a degree into minutes, if the ſubſtracti<g ref="char:EOLhyphen"/>on cannot be done otherwiſe convenienty; then multiply the degrees by 15, and divide the minutes by 4. and the ſum produced will be the diſtance of thoſe two places in common Germane miles, one whereof containeth four of our Engliſh miles.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:150076:10"/>
+               <head>To finde delineation of the Sun for any day given.</head>
+               <p>HAving firſt learned the day of the Month, you muſt look for the ſame in the Callender deſcribed on the Horizon of your Globe, over againſt which in the ſame Horizon you ſhall finde the ſigne of the Zodiack, and the degree of the ſame that the Sun is in at that time, but if it be leap year, then for the next day after the <hi>28th.</hi> of <hi>February</hi> you muſt take that degree of the ſigne which is aſcribed to the day following; As for example, if you deſire to know what degree of the Zo<g ref="char:EOLhyphen"/>diack the Sun is in the <hi>29th</hi> of Febru. you muſt take that degree which is aſſigned for the firſt of March, and for the firſt of March take the degree of the ſecond, and ſo forward.</p>
+               <p>Now when you have found the place of the Sun, apply the ſame to the Meridian, and reckon thereon how many de<g ref="char:EOLhyphen"/>grees the Sun is diſtant from the Aequator, for ſo many will the degrees be of the Suns declination for the day aſſigned; for the declination of the Sun, or of any other Star, is nothing elſe but the diſtance of the ſame from the Aequator reckoned on the Meridian.</p>
+               <p>You alſo finde out the Suns greateſt declination by his greateſt and leaſt altitude, both in Summer and Winter, by ſubſtracting the leaſt out of the greateſt, for then halfe that which remaineth will be the declination you ſeek for.</p>
+               <p>Now to know the longitude of the Sun for any time, that is to ſay in what degree of the Zodiack he is, you muſt doe thus, ſeek in the limbe of the Horizon for the day of the month for which you would know the longitude of the Sun, which found, you ſhall ſee over againſt it, among the ſignes of the Zodiack deſcribed alſo upon the Horizon the degree of the ſigne that exactly anſwereth to it, and which is the place of the Sun for that day and month, but if it be leape year you muſt remember after the <hi>28th</hi> of February to adde one day more ſtill as you goe, as if you would looke for the place of the Sun on the <hi>13th</hi> of March, you muſt take that de<g ref="char:EOLhyphen"/>gree which is ſet for the 14 of March which is the 3 gr. of Libra.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:150076:11"/>
+               <head>To finde the latitude of any place.</head>
+               <p>HAving found the place of the Sun in the Eccliptick, apply the ſame to the Meridian, and ſo move the Meri<g ref="char:EOLhyphen"/>dian up and down through the notches it ſtands in, untill the place of the Sun be elevated ſo many degrees above the Hori<g ref="char:EOLhyphen"/>zon as the Suns altitude is; and the Globe ſtanding in this po<g ref="char:EOLhyphen"/>ſition the elevation of either of the Poles will ſhew the Lati<g ref="char:EOLhyphen"/>tude of the place wherein you are.</p>
+               <p>The like effect may be wrought by obſerving the Meridian altitude of any other Star expreſſed in the Globe, for if you ſet your Globe ſo as that the Star you mean to obſerve be ſo much elevated above the Horizon, as the Meridian altitude of it is obſerved to be the elevation of the Pole above the Ho<g ref="char:EOLhyphen"/>rizon will ſhew the latitude of the place.</p>
+            </div>
+            <div type="part">
+               <head>To finde the latitude of any place by knowing the place of the Sun or other Star, and obſerving the altitude of it two ſeverall times, with the ſpace of time betwixt the two ob<g ref="char:EOLhyphen"/>ſervations.</head>
+               <p>FIrſt having taken with your compaſſes the complement of the altitude of your firſt obſervation, now the complement of the altitude, is nothing elſe but the difference of degrees by which the altitude is found to be leſſe then 90 degrees you muſt ſet one of the feet of your compaſſes in that degree of the Eccliptick that the Sun is in at that time, and with the other diſcribe a Circle upon the ſuperficies of the Globe, tending ſomewhat toward the weſt, if the obſervation be taken before noon, but toward the Eaſt if it be made in the afternoon; then having made your ſecond Obſervation, and obſerved the ſpace of time betwixt it and the former, apply the place of the Sun to the Meridian, turning the Globe toward the Eaſt untill that ſo many degrees of the Aequator have paſſed by the Meridian as anſwer to the ſpace of time that paſſed betwixt your obſervations, allowing for every hour 15 degrees in the Aequator, and marking the place in the parallel of the Suns
+<pb n="19" facs="tcp:150076:11"/>
+declination, that the Meridian croſſeth after this turning a<g ref="char:EOLhyphen"/>bout of the Globe, and then ſetting the foot of your compaſ<g ref="char:EOLhyphen"/>ſes in the very interfection, deſcribe an arch of a Circle with the other foot of the compaſſe, extended to the complement of the Second obſervation, which arch muſt cut the former<g ref="char:punc">▪</g> Cir<g ref="char:EOLhyphen"/>cle, and the common interfection of theſe two Circles, which ſhew the verticall poynt of the place wherein you are, ſo that having reckoned the diſtance of it from the Aequator, you ſhall preſently have the latitude of the ſame.</p>
+               <p>The ſame may be effected if you take any Star and worke by it after the ſame manner, or if you diſcribe two Circles mu<g ref="char:EOLhyphen"/>tually croſſing each other to the complements of any two Stars.</p>
+               <p>Seeing the Zenith or vertix of every place is diſtant a quar<g ref="char:EOLhyphen"/>ter of a Circle, that is 90 degrees from the Horizon, if then the Sun being in either of the Aequinoctiall poynts, the Meri<g ref="char:EOLhyphen"/>dian altitude be ſubſtracted from 90 degrees, the re<g ref="char:EOLhyphen"/>mainder will be the diſtance betwixt the Zenith of the place, and the Aequinoctiall Circle, which will be the latitude of the ſame place,</p>
+            </div>
+            <div type="part">
+               <head>To finde the houre of the day, Riſing and ſetting of the Sunne.</head>
+               <p>WOrk thus, Firſt ſet your Globe to the latitude of your place, then having found out the place of the Sun for the time aſſigned, apply the ſame to the Meridian, and with<g ref="char:EOLhyphen"/>all you muſt ſet the poynt of the houre Index at the figure 12 in the houre Circle, and having thus done, you muſt turne a<g ref="char:EOLhyphen"/>bout the Globe toward the Eaſt part, till the place of the Sun touch the Horizon, which done, you ſhall have the amplitude of the Suns riſing, alſo in the Aequator which you muſt reckon as we have ſaid; from the Eaſt-point or place of interfection, betwixt the Aequator and the Horizon, and then if you but turne the Globe about to the Weſt ſide of the Horizon, you ſhall in like manner have the houre of his ſetting and Occiden<g ref="char:EOLhyphen"/>t<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll amplitude.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:150076:12"/>
+               <head>To find out the Longitude, Latitude, and declination of any fixed Star as it is expreſſed in the Globe.</head>
+               <p>Take the Quadrant of altitude, or any other Quadrant of a Circle, that is but exactly divided into 90 parts, and by one end of it on either Pole of the Eccliptick, either Nor<g ref="char:EOLhyphen"/>therne or Southerne, as the latitude of the Star ſhall require, then let it paſſe through the Centre of the Star, to the very Eccliptick, and there the other end will ſhew the degree of the Longitude of the ſame which you muſt reckon from the begin<g ref="char:EOLhyphen"/>ning of Aries, and ſo that portion of the Quadrant that is con<g ref="char:EOLhyphen"/>tained betwixt the Star it ſelfe and the Eccliptick, will alſo ſhew the Latitude of the Star.</p>
+               <p>The declination of a Star is the diſtance of it from the Ae<g ref="char:EOLhyphen"/>quator which diſtance muſt be reckoned one greater circle paſſing through the Poles of the Aequator: and therefore if you but apply one Star to the Meridian you ſhall preſently have the declination of it, if you account the degrees and minutes of the Meridian (if they be any) that are contained betwixt the Center of the Star and the Aequator.</p>
+            </div>
+            <div type="part">
+               <head>Of the Conſtellations ef the Northerne Hemiſphears,</head>
+               <p>THe firſt is <hi>
+                     <g ref="char:V">Ʋ</g>rſa minor,</hi> the leſſer beare, in this conſtellati<g ref="char:EOLhyphen"/>on are reckoned ſeven Stars,</p>
+               <p>The ſecond is <hi>
+                     <g ref="char:V">Ʋ</g>rſa major,</hi> the great beare, in this conſtella<g ref="char:EOLhyphen"/>tion are reckoned twenty ſeven Stars, ſomk ſay but twenty foure, both the beares are called a Wagon or Chariot, but this name doth properly appertaine to thoſe ſeven bright ſtars in the great beare, which do ſomething reſemble the forme of a Wagon.</p>
+               <p>The Third. The Dragon: In this conſtellation there are reckoned 31 ſtars.</p>
+               <p>The fourth is Cephens to this conſtellation, they reckon in all 11, among which, that which is in number the 4<hi rend="sup">th</hi>, is called in Arabick, Alderaimin, which ſignifieth the right arme.</p>
+               <p>The fifth is Bootes; which ſignifieth an Heardſ-man, or
+<pb n="21" facs="tcp:150076:12"/>
+one that driveth Oxen; betwixt the leggs of this Conſtella<g ref="char:EOLhyphen"/>tion there ſtands an unformed Star of the firſt magnitude which is called Araturus, the whole Conſtellation conſiſteth of 22 Stars.</p>
+               <p>The ſixth Conſtellation is <hi>Corona Borea,</hi> the North Crowne the whole Conſtellation conſiſteth of 8 Stars.</p>
+               <p>The ſeventh is <hi>Hercules,</hi> It reſembleth one that is weary with labour; this Conſtellation hath 8 Stars, beſides that which is in the end of his right foot, which is betwixt him and Bootes and one unformed Star at his right arme.</p>
+               <p>The eighth is the <hi>Harpe,</hi> It conſiſteth of ten Stars, but <hi>Ti<g ref="char:EOLhyphen"/>mochares</hi> attributed to it but 8; and <hi>Alfraganus</hi> 11, the bright Star in this Conſtellation being the firſt in number.</p>
+               <p>The ninth is <hi>Gallina,</hi> the Hen or Swan, to this Aſteriſme is attributed, beſides thoſe two unformed near the left wing, 17 Stars.</p>
+               <p>The tenth is <hi>Caſſiopea,</hi> the Lady in the chear; it conſiſteth of 13 Stars.</p>
+               <p>The eleventh is <hi>Perſeus,</hi> bearing the head of <hi>Meduſa,</hi> for that Star which is on the top of the left hand is called the De<g ref="char:EOLhyphen"/>vils-head; this Conſtellation hath, beſides thoſe 3 unformed, 26 other Stars.</p>
+               <p>The twelfth is <hi>Auriga</hi> the Wagoner, this Aſteriſme hath 14 Stars, of which that bright one in the left ſhoulder, which is alſo the third in number, is called <hi>capra</hi> a Goat, and the two which are in his left hand, and are the 8th. and 9th. are called <hi>Haedikids.</hi>
+               </p>
+               <p>The thirteenth is <hi>Aquila</hi> the Eagle; In this Aſteriſme are reckoned nine Stars, beſides ſix other unformed.</p>
+               <p>The fourteenth is the Dolphine, and it hath in it tenne Stars.</p>
+               <p>The fifteenth is called in Latine <hi>Sagita,</hi> the Arrow or Dart, it containeth 5 Stars in all.</p>
+               <p>The ſixteenth is <hi>Serpentarius</hi> the Serpent bearer, it con<g ref="char:EOLhyphen"/>ſiſteth of 24 ſtars, and five other unformed.</p>
+               <p>The ſeventeenth is <hi>Serpens,</hi> the Serpent, It conſiſteth of 18 ſtars.</p>
+               <p>The eighteenth is <hi>Equiculus</hi> the little horſe, it conſiſteth of 4 obſcure ſtars.</p>
+               <p>
+                  <pb n="22" facs="tcp:150076:13"/>The nineteenth is <hi>Pegaſus,</hi> the great Horſe, it hath in it ten Stars.</p>
+               <p>The twentieth is <hi>Andromida,</hi> the chained woman, this Con<g ref="char:EOLhyphen"/>ſtellation containeth in it 23 Stars.</p>
+               <p>21 is <hi>Triangle,</hi> it conſiſteth of four Stars; Among all theſe conſtellations in the Northerne Hemiſpheare, which are in all 21, there are but three Stars only of the firſt magnitude, the firſt of which is that in the left ſhoulder of <hi>Erichthoneus,</hi> or the Wagoner, called in Latine <hi>Capella:</hi> the ſecond is the bright Star in the Harpe; the third is <hi>Arcturns</hi> betwixt the leggs of <hi>Bootes.</hi> Now the whole number of Stars in this part of the Heavens, reckoning in theſe alſo which are of the 2, 3, 4, 5, and <hi>6th.</hi> magnitude, with the obſcure and cloudy ones alſo, ariſeth to 360.</p>
+            </div>
+            <div type="part">
+               <head>Of the Northerne Signes of the Zodiack.</head>
+               <p>THe firſt is <hi>Aries,</hi> the Ram; This Conſtellation hath thir<g ref="char:EOLhyphen"/>teen Stars, ſome reckon but twelve, beſides the other 5 unformed Stars that belong to it,</p>
+               <p>The ſecond is <hi>Taurus,</hi> the Bull; in the eye of this Conſtella<g ref="char:EOLhyphen"/>tion is a very bright Star, and thoſe 5 ſtars that are in his fore-head are called in Latine <hi>Suculae,</hi> they uſually cauſe raine and ſtormy weather; thoſe othes 6 or rather 7 ſtars that appeare on the back of the Bull the Greeks call <hi>Plyades,</hi> perhaps from their multitude; this Conſtellation hath 33 ſtars in it, beſides 11 unformed ſtars that belong to it.</p>
+               <p>The third is <hi>Gemini</hi> the Twins. theſe ſome will have to be <hi>Caſter</hi> and <hi>Pollux</hi> others <hi>Apollo</hi> and <hi>Hercules;</hi> it containeth in it 18 ſtars beſides the ſeven unformed.</p>
+               <p>The fourth is <hi>Cancer</hi> the Crab, conſiſting of 9 ſtars, beſides 4 unformed.</p>
+               <p>The fifth is <hi>Leo,</hi> the Lion, in the breaſt whereof is a very bright ſtar, being the <hi>8th</hi> in number; this Conſtellation con<g ref="char:EOLhyphen"/>taineth in it 27 Stars, beſides 8 unformed, of the unformed Stars which are betwixt the hinder parts of the Lion they have made a new Conſtellation.</p>
+               <p>The ſixth is <hi>Virgo,</hi> the Virgin, and that bright Star ſhe hath in her left hand, the Greeks call an ear of Corne, the whole
+<pb n="23" facs="tcp:150076:13"/>
+Conſtellation conſiſteth of twenty ſix Stars beſides the ſix unformed.</p>
+            </div>
+            <div type="part">
+               <head>Of the Conſtellation of the Southerne Hemiſpheare, and firſt of thoſe in the Zodiack.</head>
+               <p>FIrſt <hi>Libra,</hi> which is the ſeventh, in order of the ſignes, <hi>Li<g ref="char:EOLhyphen"/>bra,</hi> was not reckoned anciently among the ſignes, till that the later Aſtronomers robbing the Scorpion of his claws tran<g ref="char:EOLhyphen"/>ſlated the ſame to <hi>Libra,</hi> and made up the number of the ſigns; this Conſtellation containeth in it 8 Stars, beſides 9 other un<g ref="char:EOLhyphen"/>formed belonging to it.</p>
+               <p>The eight is <hi>Scorpio,</hi> the Scorpion, this Conſtellation con<g ref="char:EOLhyphen"/>ſiſteth of 21 Stars, beſides three unformed.</p>
+               <p>The ninth is <hi>Sagitarius</hi> the Archer, it hath in it thirty one Stars.</p>
+               <p>The tenth is <hi>Capricornus</hi> the Goat, to this Conſtellation they attribute 28 Stars,</p>
+               <p>The eleventh is <hi>Aquarius</hi> the Water-man, it containeth in all 42 Stars:</p>
+               <p>The twelfth is <hi>Piſces</hi> the Fiſhes, it containeth 34 Stars, and 4 unformed.</p>
+            </div>
+            <div type="part">
+               <head>Of the Conſtellations of the Southerne Hemiſpheare which are without the Zodiack</head>
+               <p>THe firſt is <hi>Cetus,</hi> the Whale; conſiſting of 22 Stars.</p>
+               <p>The ſecond is <hi>Orion</hi> which the Arabians call ſometimes the mad-man, ſometimes a ſtrong-man or Gyant; it conſiſteth of 38 Stars, it is called the mad-man, becauſe that when this Conſtellation riſeth with the Sun it cauſeth great ſtore of tem<g ref="char:EOLhyphen"/>peſtuous weather in all places.</p>
+               <p>The third is <hi>Eridianus,</hi> the River, it hath in it 34 Stars.</p>
+               <p>The fourth is <hi>Lepus,</hi> the Hare; it containeth 12 Stars.</p>
+               <p>The fifth is <hi>Canis,</hi> the Dogge; this Conſtellation hath in it 11 Stars.</p>
+               <p>The ſixth is the little Dogge <hi>Anti Canis</hi> in Latine, becauſe it riſeth before the great Dogge; this Aſteriſme conſiſteth of two ſtars only.</p>
+               <p>
+                  <pb n="24" facs="tcp:150076:14"/>The ſeventh is <hi>Argo,</hi> the Ship; the whole Aſteriſme con<g ref="char:EOLhyphen"/>taineth in it 45 Stars.</p>
+               <p>The eight is <hi>Hydra,</hi> it hath in it 15 Stars beſides two unfor<g ref="char:EOLhyphen"/>med.</p>
+               <p>The ninth is <hi>Crater,</hi> the Cup, it hath in it 7 Stars.</p>
+               <p>The tenth is <hi>Corvus,</hi> the Crow, conſiſting of 7 Stars.</p>
+               <p>The eleventh is <hi>Centaurus,</hi> the Centaure, it containeth 37<g ref="char:punc">▪</g> ſtars.</p>
+               <p>The twelfth is <hi>Peru,</hi> the wild beaſt, to this Conſtellation they reckon 19 ſtars.</p>
+               <p>The thirteenth is <hi>Ara,</hi> the Altar, it containeth 7 ſtars.</p>
+               <p>The fourteenth is <hi>Corona auſtralis,</hi> the ſouth Crown, it con<g ref="char:EOLhyphen"/>ſiſteth of 13 ſtars.</p>
+               <p>The fifteenth is <hi>Piſces auſtrinus,</hi> the South-fiſh, it containeth in it 13 ſtars.</p>
+               <p>There is alſo deſcribed in the Caeleſtiall Globe, a certaine broad Zone or Circle, of the colour of Milke, which repre<g ref="char:EOLhyphen"/>ſenteth that which appeareth in the Heavens, and is called, <hi>Via Lactea,</hi> the milky way, which Zone or Circle is not drawn regularly or equally, either in reſpect of latitude, colour, or frequency of ſtars, but indifferent and various both in forme and ſcituation, in ſome places appearing but as a ſingle Circle, and againe in others ſeeming as it were dividing in two parts, the delineation whereof you may ſee in the Globe.</p>
+               <p>Now the whole firmament, reckoning in the Northerne and ſoutherne Hemiſphears together with the Zodiack, containeth in all 1022 ſtars which make up 48 Aſteriſmes or conſtellations.</p>
+            </div>
+            <div type="part">
+               <head>How to make a Sun Dyall by the Globe for any latitude of place.</head>
+               <p>FOr the making of a plaine Horizontall dyall, having firſt prepared your flat dyall ground parallel to the Horizon, draw a Meridian on it as exactly North and South as poſſibly you can, which done, draw another Eaſt and Weſt, which muſt croſſe it at right Angles; The firſt of which lines will ſhew 12, and the other ſix of the Clock both morning and evening. Then making a Center in the interfection of theſe two lines, deſcribe a Circle on your dyall to what diſtance you pleaſe, and then divide it as all other Circles uſu<g ref="char:EOLhyphen"/>ally
+<pb n="25" facs="tcp:150076:14"/>
+are into 360 parts and it will not be amiſſe to ſub-divide each of theſe into leſſer parts if it may be conveniently done. And now it only remaines to finde out the diſtances of the hour lines in this Circle, for any latitude of place, which that we may doe by the uſe of the Globe, let it firſt be ſet to the Latitude of the place aſſigned, and then make choice of ſome of the greater Circles in the Globe that paſſe through the Poles of the world. As for example, The Aequinoctiall colour if you pleaſe, and apply the ſame to the Meridian, in which ſcituation it ſheweth the mid-day, or 12 a Clock, then turning about the Globe toward the Weſt (if you will) till that 15 degrees of the Aequator have paſſed through the Meridian: you muſt marke the degree of the Horizon, that the ſame colour croſſeth in the Horizon, for that point will ſhew the diſtance of the firſt and <hi>11th</hi> houres from the Meridian both of which are diſtant an houres ſpace from the Meridian, or line of Mid-day; then turning againe the Globe forward till other fifteen degrees are paſt the Meridian, the ſame Colour, will point out the diſtance of the <hi>10th</hi> hour, which is 2 hours before noon, and of the ſecond houre after noon; and in the ſame manner may you find out the diſtances of all the reſt in the Horizon, allotting to each of them 15 degrees in the Aequator, croſſing the Meridian; but here you muſt take notice by the way, that the beginning of this account of the diſtances, muſt be taken from that part of the Horizon on which the Pole is elevated, to wit, from the North-part of the Horizon, if the Artick Pole be elevate, and ſo likewiſe from the South part, if the Antartick be elevated.</p>
+               <p>The diſtances of the houres being thus noted in the Hori<g ref="char:EOLhyphen"/>zon of the Globe, you muſt afterward tranſlate them into your plaine allotted for your dyal ground, reckoning in the circumference of it ſo many degrees to each houre as are an<g ref="char:EOLhyphen"/>ſwerable to thoſe pointed out by the Colour in the Horizon; and laſtly, having thus done the Gnomon or Stile muſt be erected, where you are to obſerve this one thing, which is in<g ref="char:EOLhyphen"/>deed the chiefe thing to be carefully looked unto, namely, that that edge or line of the Gnomon, which is to ſhew the hours by its ſhadow in all kinds of Dials muſt be ſet parallel to the Axis of the world, that ſo it may make an angle of inclina<g ref="char:EOLhyphen"/>tion,
+<pb n="26" facs="tcp:150076:15"/>
+with its plain ground equall to that which the Axis of the world makes with the Horizon, now that the ſtile is to ſtand directly to the North and South, or the Meridian line is a thing commonly knowne.</p>
+               <p>Now if you would make a plaine erect dyall perpendicular to the Horizon, which is commonly called a <hi>Murall,</hi> and re<g ref="char:EOLhyphen"/>ſpecting either the Norrh or South, you muſt remember this one thing, that that which is an erect dyall in one place wil be a horizontall in another, whoſe Zenith is diſtant from that place 90 degrees either Northward or Southward.</p>
+               <p>And ſo likewiſe by this rule may be made any manner of inclining dyall, if ſo be that the quantity of the inclination be but knowne, as for example, if a dyall be made on a plaine ground, whoſe inclination is ten degrees from the Horizon Southward, and for a place whoſe latitude is for 52 gr. North<g ref="char:EOLhyphen"/>ward, you muſt deſcribe it in that plaine and horizontall diall for the latitude of 62 degrees North-ward, and if in the ſame Latitude the diall ground doe incline toward the North 16 gr. you muſt take an horizonticall dial for the Northerne lati<g ref="char:EOLhyphen"/>tude of 36 gr.</p>
+               <trailer>And thus much for making dials by the Globe.</trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_a_card_game">
+            <p>A new Play at cardes, by vertue whereof Children or others may with facility and delight, learne both to read and write, and alſo to ſpell, and Pronounce, the hardeſt names in the Bible; as alſo to know how to read and write the Calde, Syriack, Arabick, Hebrew, and Greek Characters.</p>
+            <p>All this to be learnt and Play.</p>
+            <p>Sold by <hi>Tho. Jenner</hi> at the South entrance of the <hi>Old Exchange,</hi> 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
